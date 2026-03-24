@@ -2,5 +2,6 @@
 ```
 - React
 - Tailwind CSS
+- Axios 
 ```
  
